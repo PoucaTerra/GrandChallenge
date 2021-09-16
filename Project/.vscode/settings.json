@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "vector": "c",
+        "*.cu": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "random": "c",
+        "bitset": "c",
+        "algorithm": "c"
+    }
+}

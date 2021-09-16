@@ -1,0 +1,18 @@
+Rules Loaded. Took 0.000000 seconds
+Rules Sorted. Took 0.000000 seconds
+Classifications created. Took 0.000000 seconds
+Time to read Transactions = 0.000000 seconds
+Transactions Classification Completed. Took 0.000000 seconds
+Parallel Transactions per second: inf
+Rules Loaded. Took 0.000000 seconds
+Rules Sorted. Took 0.000000 seconds
+Classifications created. Took 0.000000 seconds
+Time to read Transactions = 0.000000 seconds
+Transactions Classification Completed. Took 0.000000 seconds
+Parallel Transactions per second: inf
+Rules Loaded. Took 0.000000 seconds
+Rules Sorted. Took 0.000000 seconds
+Classifications created. Took 0.000000 seconds
+Time to read Transactions = 0.000000 seconds
+Transactions Classification Completed. Took 0.000000 seconds
+Parallel Transactions per second: inf
